@@ -24,7 +24,7 @@ const Wrapper = styled.div`
   place-items: center;
 `;
 const ContentWrapper = styled.div`
-  height: 100vh;
+  height: 70vh;
   width: 35rem;
-  background-color: #eee;
+  display: block;
 `;
