@@ -18,7 +18,7 @@ const Wrap = styled.div`
   top: 0;
   > img {
     object-fit: cover;
-    height: 100%;
+    height: 55rem;
     width: 100%;
     border-radius: 0.7rem;
     position: relative;
